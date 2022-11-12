@@ -1,0 +1,5 @@
+﻿  tic-tac-tor.cpp
+D:\C++\Game\tic-tac-tor\tic-tac-tor\tic-tac-tor.cpp(210,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\Game\tic-tac-tor\tic-tac-tor\tic-tac-tor.cpp(99): warning C4715: CheckArgs: значение возвращается не при всех путях выполнения
+D:\C++\Game\tic-tac-tor\tic-tac-tor\tic-tac-tor.cpp(365): warning C4715: FindWinner: значение возвращается не при всех путях выполнения
+  tic-tac-tor.vcxproj -> D:\C++\Game\tic-tac-tor\x64\Debug\tic-tac-tor.exe
